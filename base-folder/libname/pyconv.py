@@ -333,7 +333,7 @@ class Kilometer:
         return self.num * 3280.84
 
     def toYard(self):
-        return self.num * 1.093613
+        return self.num * 1093.613
 
     def toMillimeters(self):
         return self.num * 1000000
